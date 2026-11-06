@@ -1,0 +1,4 @@
+:HL["/marea-padel/_next/static/chunks/3cn6o4u_qsn-p.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"RdPqlyfQt-_B5k23xw2P0","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
